@@ -11,4 +11,4 @@ scikit-learn==1.2.2
 tqdm==4.65.0
 matplotlib==3.7.1
 seaborn==0.12.2
-R==4.0.3
+R==4.3.3
